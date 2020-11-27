@@ -1,0 +1,10 @@
+> add individual profile pic to 'emails'
+> add pause and resume functionality
+> handle more than 10 emails on the page
+> write an email by speech
+> add attachment feature
+> delete, mark as read or unread email
+> select all displayed emails using checkbox
+> alter button (and sender) positions on inbox, readEmail
+> *edit voice messages
+> read message by messageId
